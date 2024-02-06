@@ -1,4 +1,5 @@
 # simplemic
+Version 0.0.0 (initial project)
 
 With `simplemic` you can easily record audio from a microphone.
 
