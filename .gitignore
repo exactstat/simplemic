@@ -1,0 +1,6 @@
+.venv
+\__init__.py
+__pycache__
+.pytest_cache\
+*.ipynb
+*.egg*

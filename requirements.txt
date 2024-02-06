@@ -1,0 +1,6 @@
+pytest
+numpy
+kmeans1d
+simpleaudio
+wheel
+pyaudio
