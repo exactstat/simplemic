@@ -11,7 +11,7 @@ With `simplemic` you can easily record audio from a microphone.
 
 Install from the GitHub repository:
 ```bash
-pip install git+https://github.com/
+pip install git+https://github.com/exactstat/simplemic
 ```
 
 
